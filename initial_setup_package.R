@@ -48,7 +48,7 @@ use_package("purrr")
 use_package("ggplot2")
 use_package("signal")
 use_package("R.matlab")
-use_pipe()  # Enables %>%
+use_pipe() # Enables %>%
 
 
 #########################################
